@@ -73,7 +73,7 @@ export default function New() {
             <Background>
                 <Header />
                 <SafeAreaView style={{ alignItems: 'center' }}>
-                    <Text style={{ fontSize: 22, fontStyle: 'italic' }}>Entrada ou saída de insumos</Text>
+                    <Text style={{ fontSize: 22, fontStyle: 'italic', color: 'rgba(255,255,255,0.85)' }}>Entrada ou saída de insumos</Text>
                     <Input
                         style={{ color: '#000' }}
                         placeholder="R$ Valor recebido ou gasto"
