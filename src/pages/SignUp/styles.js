@@ -28,7 +28,6 @@ export const Input = styled.TextInput.attrs({
     color: #FFF;
     margin-bottom: 15px;
     border-radius: 8px;
-    text-transform: lowercase;
     padding-left: 10px;
 `;
 

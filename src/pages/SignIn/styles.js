@@ -30,7 +30,7 @@ export const Input = styled.TextInput.attrs({
     color: #FFF;
     margin-bottom: 15px;
     border-radius: 8px;
-    text-transform: lowercase;
+    
     padding-left: 10px;
 `;
 
@@ -58,6 +58,7 @@ export const LinkText = styled.Text`
     color: rgba(255,255,255,0.60);
     margin-top: 20px;
     font-style: italic;
+    font-size:16px;
 `;
 
 

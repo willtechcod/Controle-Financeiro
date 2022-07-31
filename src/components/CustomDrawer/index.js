@@ -12,8 +12,8 @@ export default function CustomDrawer(props) {
         <DrawerContentScrollView {...props}>
             <View style={{ alignItems: 'center', justifyContent: 'center', marginTop: 25 }}>
                 <Image
-                    source={require('../../assets/logoo.png')}
-                    style={{ width: 105, height: 105 }}
+                    source={require('../../assets/mine-logo.png')}
+                    style={{ width: 115, height: 115 }}
                     resizeMode='contain'
                 />
 
